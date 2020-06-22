@@ -1,0 +1,40 @@
+{
+    "list": [{
+            "id": 1,
+            "name": "朱丹丹",
+            "money": 50000,
+            "address": "红土创新基金",
+            "state": "购买",
+            "date": "2019-11-1",
+            "thumb": "https://lin-xin.gitee.io/images/post/wms.png"
+        },
+        {
+            "id": 2,
+            "name": "宋宇航",
+            "money": 45600,
+            "address": "汇安基金",
+            "state": "购买",
+            "date": "2019-10-11",
+            "thumb": "https://lin-xin.gitee.io/images/post/node3.png"
+        },
+        {
+            "id": 3,
+            "name": "张迪",
+            "money": 78900,
+            "address": "安信基金",
+            "state": "购买",
+            "date": "2019-11-11",
+            "thumb": "https://lin-xin.gitee.io/images/post/parcel.png"
+        },
+        {
+            "id": 4,
+            "name": "王欢欢",
+            "money": 1100000,
+            "address": "国泰君安资产管理",
+            "state": "购买",
+            "date": "2019-10-20",
+            "thumb": "https://lin-xin.gitee.io/images/post/notice.png"
+        }
+    ],
+    "pageTotal": 4
+}
